@@ -1,4 +1,3 @@
-# app-skane
 ![image_alt](https://github.com/morg-ana-00/Demoday---Skane/blob/5d76c7935037874a37af3ca02c0b4ab3045d3eae/WhatsApp%20Image%202026-11-12%20at%2022.39.08.jpg)
 
 # SKANE
