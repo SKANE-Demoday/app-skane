@@ -36,8 +36,8 @@ Chegamos ao Demoday com uma solução funcional e com um aprendizado importante:
 
 ## Modelo de negócio
 
-- Aplicativo disponível gratuito.
-- **Assinatura premium** (ex.: R$ 9,90/mês).
+- Aplicativo disponível de forma gratuita.
+- **Assinatura premium** ( R$ 19,90/mês - R$ 149/ano ).
 - A auditoria do tanque é **gratuita** no aplicativo.
 
 ## Equipe Skane
