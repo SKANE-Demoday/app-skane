@@ -109,10 +109,10 @@ Chegamos ao Demoday com uma solução funcional e com um aprendizado importante:
 A SKANE só foi possível graças ao apoio de muitas pessoas ao longo da jornada no PROA Profissão. Nosso muito obrigado:
 
 - **Ao Renan**, antigo integrante do grupo, pela contribuição no início do projeto e pelo trabalho que ajudou a construir a base da SKANE.
-- **Ao prof. Jailson Costa**, que nos acompanhou do início ao fim do curso e nos passou noções essenciais sobre regras de negócio para o desenvolvimento do projeto.
-- **À profa. Débora**, que nos orientou e nos ajudou na escolha do tema do projeto.
+- **Ao professor Jailson**, que nos acompanhou do início ao fim do curso e nos passou noções essenciais sobre regras de negócio para o desenvolvimento do projeto.
+- **À professora Débora**, que nos orientou e nos ajudou na escolha do tema do projeto.
 - **Ao tutor Gregory**, que nos guiou ao longo de todo o desenvolvimento.
-- **Ao prof. Israel Junior**, que nos orientou e nos ajudou a definir o caminho do projeto.
+- **Ao professor Israel**, que nos orientou e nos ajudou a definir o caminho do projeto.
 - **À Letícia**, que nos deu apoio na saída do antigo integrante e durante todo o processo do curso.
 - **Aos nossos colegas de classe**, pela troca de experiências e pelo companheirismo.
 - **Aos nossos colegas de equipe**, pela dedicação, pela parceria e por fazerem esse projeto acontecer juntos.
